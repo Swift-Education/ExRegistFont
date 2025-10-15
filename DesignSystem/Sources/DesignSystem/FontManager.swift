@@ -57,7 +57,7 @@ public enum FontManager {
 }
 
 public enum Pretendard: Int, CaseIterable {
-  case black = 900
+  case Black = 900
   case extraBold = 800
   case bold = 700
   case semiBold = 600
@@ -70,7 +70,9 @@ public enum Pretendard: Int, CaseIterable {
   var value: String {
     switch self {
     default:
-      return "Pretendard-\(self.displayName)"
+      return "Pretendard-\(self)"
+//      return "Pretendard-\(self.displayName)"
+      
     }
   }
   

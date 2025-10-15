@@ -6,15 +6,15 @@
 	<array>
 		<!-- 잘못된 파일명 (lowerCamelCase) -->
 		
-		<string>Pretendard-black.otf</string>
-		<string>Pretendard-extraBold.otf</string>
-		<string>Pretendard-bold.otf</string>
-		<string>Pretendard-semiBold.otf</string>
-		<string>Pretendard-medium.otf</string>
-		<string>Pretendard-regular.otf</string>
-		<string>Pretendard-light.otf</string>
-		<string>Pretendard-extraLight.otf</string>
-		<string>Pretendard-thin.otf</string>
+<!--		<string>Pretendard-black.otf</string>-->
+<!--		<string>Pretendard-extraBold.otf</string>-->
+<!--		<string>Pretendard-bold.otf</string>-->
+<!--		<string>Pretendard-semiBold.otf</string>-->
+<!--		<string>Pretendard-medium.otf</string>-->
+<!--		<string>Pretendard-regular.otf</string>-->
+<!--		<string>Pretendard-light.otf</string>-->
+<!--		<string>Pretendard-extraLight.otf</string>-->
+<!--		<string>Pretendard-thin.otf</string>-->
 		
 		<!-- 올바른 파일명 (실제 파일과 동일) -->
     <!--
